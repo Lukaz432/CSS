@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Kompiuteriai internetu</title>
+    </head>
+        <body>
+        <table width="100%" border="1">
+            <caption><b>Kompiuterių kainų palyginimas</b></caption>
+                <thead>
+                    <tr>
+                        <th></th>
+                        <th>Toshiba</th>
+                        <th>Asus</th>
+                        <th>Lenovo</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Elektromarkt</td>
+                        <td>740.00eur</td>
+                        <td>750.00eur</td>
+                        <td>730.00eur</td>
+                    </tr>
+                    <tr>
+                        <td>Topo Centras</td>
+                        <td>750.00eur</td>
+                        <td>730.00eur</td>
+                        <td>740.00eur</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p><i>Programavimo</i> kursai pradedantiesiems ir pažengusiems <i>Vilniuje</i></p>
+</html>
